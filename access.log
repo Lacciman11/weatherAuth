@@ -1,0 +1,2 @@
+::1 - - [21/Feb/2025:09:25:58 +0000] "POST /api/register HTTP/1.1" 201 42 "-" "PostmanRuntime/7.39.1"
+::1 - - [21/Feb/2025:09:26:30 +0000] "POST /api/login HTTP/1.1" 200 183 "-" "PostmanRuntime/7.39.1"
